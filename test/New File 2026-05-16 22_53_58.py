@@ -7,3 +7,5 @@ word2 = "silent"
 result = are_anagrams(word1, word2)
 
 # added a second comment at the end
+
+#added a new comment to check
